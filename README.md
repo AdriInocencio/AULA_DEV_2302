@@ -12,7 +12,7 @@ Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
 <p>
 
 #### Surpresa!
-![surprise](/img/01.gif)
+<img src="/img/01.gif" alt="drawing" width="100"/>
 </p>
 </details>
 
